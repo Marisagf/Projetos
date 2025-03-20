@@ -46,7 +46,7 @@ Sinta-se à vontade para sugerir melhorias, relatar problemas ou contribuir com 
 📩 **Contato:** Se tiver dúvidas ou quiser trocar ideias sobre Power BI, entre em contato!  
 📩 **Entre em contato comigo pelo WhatsApp ou E-mail:**  
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/(88)993838060)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/88993838062)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marisa.gfrota@gmail.com)
 
 ---
