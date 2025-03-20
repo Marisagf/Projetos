@@ -44,6 +44,10 @@ Abaixo estão alguns dos projetos incluídos neste repositório:
 Sinta-se à vontade para sugerir melhorias, relatar problemas ou contribuir com novos projetos! 🚀
 
 📩 **Contato:** Se tiver dúvidas ou quiser trocar ideias sobre Power BI, entre em contato!  
+📩 **Entre em contato comigo pelo WhatsApp ou E-mail:**  
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/(88)993838060)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marisa.gfrota@gmail.com)
 
 ---
 
